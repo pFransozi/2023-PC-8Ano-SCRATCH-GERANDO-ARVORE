@@ -20,4 +20,5 @@ Este repositório é utilizado para o curso "scratch-arte-generativa" da Alura, 
 * definição de bloco para reaproveitamente de algorítmos;
 
 ## Link
-* [gerando árvore](https://scratch.mit.edu/projects/874649592);
+* [gerando árvore - scratch](https://scratch.mit.edu/projects/874649592);
+* [gerando árvore - github](https://github.com/pFransozi/2023-PC-SCRATCH-GERANDO_ARVORE);
